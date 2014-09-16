@@ -1,4 +1,4 @@
-# .gitignore
+# Ruby.gitignore
 
 # Anything starting with a tilde (~) is considered a temp object and should be ignored
 # ignore any DIRECTORY which is named starting with a tilde (~)
