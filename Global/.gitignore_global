@@ -1,0 +1,40 @@
+#
+# .gitignore_global
+# https://help.github.com/articles/ignoring-files#create-a-global-gitignore
+
+#
+# User specific
+# --------------------
+
+# Anything starting with a tilde (~) is considered a temp object and should be ignored
+# ignore any DIRECTORY which is named starting with a tilde (~)
+*~/
+
+# ignore any FILE which is named starting with a tilde (~)
+~*
+
+#
+# Macintosh OSX specific
+# --------------------
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
